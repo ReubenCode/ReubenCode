@@ -8,5 +8,3 @@
 ReubenCode/ReubenCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello, anyone and everyone who is currntly reading this. I'm still pretty new to the coding game. I got my feet wet with python and im tackling java next. Feel free to reach 
-out with any advise you can throw my way!
